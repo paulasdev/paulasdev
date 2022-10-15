@@ -2,10 +2,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paula Silva
 ===================================================================================================================================
 
-Full Stack Software Developer
+Full Stack Web Developer
 -----------------------------
 
-FullStack developer who loves web development!
+Full Stack web developer who loves web development!
 
 * 🌍  I'm based in Ireland
 * ✉️  You can contact me at [carolpaulag@gmail.com](mailto:carolpaulag@gmail.com)
