@@ -1,17 +1,11 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paula Silva
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Paula Silva
 ===================================================================================================================================
-
-Full Stack Web Developer
------------------------------
-
-Full Stack web developer who loves web development!
 
 * 🌍  I'm based in Ireland
 * ✉️  You can contact me at [carolpaulag@gmail.com](mailto:carolpaulag@gmail.com)
-* 🧠  I'm learning Database Management Systems
+* 🧠  I'm learning Python at the moment
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Lego crazy
 
 ### Skills
 
