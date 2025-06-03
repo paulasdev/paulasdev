@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * 🌍  I'm based in Ireland
-* ✉️  You can contact me at [carolpaulag@gmail.com](mailto:carolpaulag@gmail.com)
+* ✉️  You can contact me at [paulaghickey@gmail.com](mailto:paulaghickey@gmail.com)
 * 🧠  I'm learning Python at the moment
 * 🤝  I'm open to collaborating on Projects
 
